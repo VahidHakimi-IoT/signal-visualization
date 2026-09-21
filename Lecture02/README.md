@@ -135,11 +135,6 @@ The Nyquist rate is 20 Hz.
 |             100 Hz | \(100 > 20\)       | Above Nyquist           |
 
 
-Engineering Recommendation:
-
-A sampling frequency of 50 Hz is recommended for this investigation. The Nyquist rate for the 10 Hz signal is 20 Hz, so 50 Hz provides a substantial margin above the theoretical minimum. It provides five samples per cycle, giving a clear representation of the waveform. Although 100 Hz provides more samples, it also produces more data and requires more processing and storage. Therefore, 50 Hz provides a practical balance between signal representation and computational requirements for this simple 10 Hz example.
-
-For a real industrial vibration-monitoring system, the final sampling frequency should be based on the highest frequency component that needs to be measured, not just the 10 Hz example used here. An anti-aliasing filter should also be applied before sampling to reduce unwanted higher-frequency components.
 
 
 
