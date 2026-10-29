@@ -1,4 +1,4 @@
-Removing 50 Hz hum from a WAV file in MATLAB
+
 For this in-class task I loaded a short audio file, found the one thing that shouldn't be in it, filtered it out, and then checked whether the result was actually better.
 What's in this repo
 `inclassAssingment06.m`: the MATLAB script
