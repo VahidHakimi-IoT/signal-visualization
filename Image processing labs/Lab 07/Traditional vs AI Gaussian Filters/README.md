@@ -61,15 +61,18 @@ These results show that noise reduction can also change image details. Different
 
 ### Image Comparison
 
-Add your MATLAB figure screenshot here.
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/8978da7d-e9bf-4506-9335-31156b109ccc" />
+reenshot here.
 
-![Image comparison](screenshots/image_comparison.png)
+
+
 
 ### Image Quality Metrics
 
 Add your MATLAB Command Window screenshot here.
 
-![Image quality metrics](screenshots/metrics.png)
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7fd291ce-2925-42b8-ab6e-8b42dd5ad66f" />
+
 
 ## 7. Conclusion
 
